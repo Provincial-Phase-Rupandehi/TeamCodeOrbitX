@@ -1,7 +1,3 @@
-# Sanket - Community Issue Reporting Platform
-
-**📺 Video Demo**: https://drive.google.com/file/d/1dSckmA7L9jk7Mi8yuiNkYuucIlfMpUNy/view  
-**📊 Presentation**: https://www.canva.com/design/DAG5QKm85xA/5BiWu2bSbC-JSU7VHmF7-A/edit
 
 A full-stack Progressive Web Application (PWA) for municipal issue reporting and management, enabling citizens to report and track civic problems while providing administrators with powerful tools for efficient resolution and resource allocation.
 
